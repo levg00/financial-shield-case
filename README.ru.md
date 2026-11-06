@@ -112,13 +112,18 @@
 <summary><b>Структура файлов</b></summary>
 
 ```text
-README.md                    — описание на английском
-README.ru.md                 — описание на русском
-assets/scenario-oleg.png      — превью сценария для README
-materials/solution.pdf        — исходное решение кейса
-materials/scenario-oleg.pdf   — визуальный сценарий Олега
-materials/scenario-dima.pdf   — визуальный сценарий Димы
-materials/scenario-anna.pdf   — визуальный сценарий Анны
+README.md                       — описание на английском
+README.ru.md                    — описание на русском
+assets/scenario-oleg.png         — превью для русского README
+assets/scenario-oleg.en.png      — превью для английского README
+materials/solution.pdf           — исходное решение на русском
+materials/scenario-oleg.pdf      — сценарий Олега на русском
+materials/scenario-dima.pdf      — сценарий Димы на русском
+materials/scenario-anna.pdf      — сценарий Анны на русском
+materials/solution.en.pdf        — перевод решения на английский
+materials/scenario-oleg.en.pdf   — сценарий Олега на английском
+materials/scenario-dima.en.pdf   — сценарий Димы на английском
+materials/scenario-anna.en.pdf   — сценарий Анны на английском
 ```
 
 </details>
