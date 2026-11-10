@@ -6,19 +6,21 @@
 
 [↩ Applied projects](https://github.com/levg00/levg00/blob/main/portfolio/applied.en.md)
 
-A concept for a financial app feature that protects users from fraudulent and impulsive transactions. **I proposed warnings that adapt to transaction risk while leaving the final decision to the user.**
+A concept for a financial app feature that protects users from fraudulent and impulsive transactions.
 
 Case study completed as part of the selection process for an internship at **T-Bank**. Deliverables: a product concept, intervention logic, and **3 visual scenarios**.
 
+**I proposed warnings that adapt to transaction risk while leaving the final decision to the user.**
+
 **Product design · Requirements analysis · User scenarios · Risk assessment · Metrics**
 
-### 🖼️ [Visual scenarios](#-user-scenarios) · 📄 [Full solution](materials/solution.en.pdf)
+### 🖼️ [Visual scenarios](#scenarios) · 📄 [Full solution](https://github.com/levg00/financial-shield-case/blob/main/materials/solution.en.pdf)
 
 ## 🎯 Task and solution
 
 **Task:** help users avoid financial mistakes without creating unnecessary obstacles to routine transactions.
 
-**Solution:** assess the transaction context and adjust the level of intervention — from no warning to clarifying questions and a temporary delay. The user retains the option to proceed.
+**Solution:** assess the transaction context and adjust the level of intervention from no warning to clarifying questions and a temporary delay. The user always retains the option to proceed.
 
 | Risk | Feature behavior |
 | :--- | :--- |
@@ -33,13 +35,13 @@ Case study completed as part of the selection process for an internship at **T-B
 - **User scenarios:** worked through a fraudulent advance payment, an impulsive investment, and a routine purchase triggering a false positive.
 - **Product analytics:** proposed metrics for protection effectiveness and its impact on the user experience.
 
+<a name="scenarios"></a>
+
 ## 🖼️ User scenarios
 
 **Example: a suspicious advance payment for a PlayStation 5.** The warning explains the risk, questions help the user assess the situation, and a delay gives them time to reconsider.
 
 [![Oleg's scenario: transfer, warning, clarifying questions, and explanation of the risk](assets/scenario-oleg.en.png)](materials/scenario-oleg.en.pdf)
-
-*Concept illustration. The amount shown in the mockup belongs to a fictional scenario, not a measured implementation outcome. Click the image to open the PDF.*
 
 - **[Oleg — fraudulent advance payment](materials/scenario-oleg.en.pdf):** a PlayStation 5 for RUB 20,000, a new recipient, and a demand for immediate full payment.
 - **[Dima — impulsive investment](materials/scenario-dima.en.pdf):** buying a sharply rising stock with his remaining money shortly before rent is due.
@@ -114,16 +116,16 @@ The concept does not include complete blocking: the user retains the option to p
 ```text
 README.md                       — description in English
 README.ru.md                    — description in Russian
-assets/scenario-oleg.en.png      — scenario preview for the English README
-assets/scenario-oleg.png         — scenario preview for the Russian README
-materials/solution.en.pdf        — case solution in English
-materials/scenario-oleg.en.pdf   — Oleg's visual scenario in English
-materials/scenario-dima.en.pdf   — Dima's visual scenario in English
-materials/scenario-anna.en.pdf   — Anna's visual scenario in English
-materials/solution.pdf           — original case solution in Russian
-materials/scenario-oleg.pdf      — Oleg's visual scenario in Russian
-materials/scenario-dima.pdf      — Dima's visual scenario in Russian
-materials/scenario-anna.pdf      — Anna's visual scenario in Russian
+assets/scenario-oleg.png         — preview for the Russian README
+assets/scenario-oleg.en.png      — preview for the English README
+materials/solution.pdf           — original solution in Russian
+materials/scenario-oleg.pdf      — Oleg's scenario in Russian
+materials/scenario-dima.pdf      — Dima's scenario in Russian
+materials/scenario-anna.pdf      — Anna's scenario in Russian
+materials/solution.en.pdf        — English translation of the solution
+materials/scenario-oleg.en.pdf   — Oleg's scenario in English
+materials/scenario-dima.en.pdf   — Dima's scenario in English
+materials/scenario-anna.en.pdf   — Anna's scenario in English
 ```
 
 </details>
